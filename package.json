@@ -1,0 +1,14 @@
+{
+	"name": "com.namnh.quick-engine",
+	"version": "0.0.1",
+	"displayName": "NHN-Quick-Engine",
+	"unity": "2018.1",
+	"description": "Quick Engine",
+	"keywords": ["quick", "quick-engine", "util", "utils", "utility"],
+	"category": "Util",
+	"author": {
+		"name": "NamNH-1B"
+	},
+	"dependencies": {
+	}
+}
